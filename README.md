@@ -1,1 +1,3 @@
-TinDog Starting Files
+TinDog Project
+
+This is a practice project using Bootstrap 4
