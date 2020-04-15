@@ -129,3 +129,44 @@ p.feature {
 .pricing-column {
   padding: 3% 2%;
 }
+
+/* Call to Action Section */
+#cta {
+  padding: 5% 15% 2%;
+  background-color: #ff4c68;
+  text-align: center;
+}
+
+h3.cta {
+  font-family: "Montserrat";
+  font-size: 2.5rem;
+  line-height: 1.5;
+  font-weight: 800;
+  color: #fff;
+}
+
+/* Footer Section */
+#footer {
+  text-align: center;
+  padding: 7% 15% 3%;
+}
+
+.footericon {
+  margin: 20px 10px;
+}
+
+p.footer {
+  color: #8f8f8f;
+}
+
+/* Responsive Website */
+@media (max-width : 1024px) {
+  #title {
+    text-align: center;
+  }
+
+  .title-image {
+    transform: rotate(0);
+    position: static;
+  }
+}
